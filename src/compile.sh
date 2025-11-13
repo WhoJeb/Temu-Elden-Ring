@@ -1,3 +1,3 @@
-gcc main.c -Wall -o test
+gcc src/main.c -Wall -o Temu-Elden-Ring
 
-chmod +x test
+chmod +x Temu-Elden-Ring
